@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="(Prototype 1)LEADing the Way: Taking CAREful Steps to Effective Service Recovery" />
+              <option name="title_text" value="(Prototype 1)LEADing the Way to Effective Service Recovery" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1586,6 +1586,49 @@
             <slidelink slideid="_player.5a56HlQ6rQw.604lXTrFN6M" displaytext="Empathy" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.5poWGqV9Rkg" displaytext="Perspective Taking" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.68FcdyeEgeB" displaytext="Video" expand="false" type="slide" />
+            <slidelink slideid="_player.5a56HlQ6rQw.6Xi6yaGvgml" displaytext="(Q1) Which of the following are components of empathy?" expand="false" type="slide" />
+            <slidelink slideid="_player.5a56HlQ6rQw.6ikSjLC6xSo" displaytext="(Q3) Being empathetic puts you in a vulnerable position" expand="false" type="slide" />
+            <slidelink slideid="_player.5a56HlQ6rQw.5yookAxEUMT" displaytext="(Q4) The “right” response can make a person feel better" expand="false" type="slide" />
+            <slidelink slideid="_player.5a56HlQ6rQw.5q73DUuTggd" displaytext="(Q5) Empathetic responses usually begin with “at least.”" expand="false" type="slide" />
+            <slidelink slideid="_player.5a56HlQ6rQw.6DMY0JXNYnu" displaytext="(Q2) Empathy is another word for sympathy" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6LMbgP8qVuX" displaytext="Case Scenarios" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6LMbgP8qVuX.6mOcdnAgtY8" displaytext="Let’s Practice!" expand="false" type="slide" />
+            <slidelink slideid="_player.6LMbgP8qVuX.5uCkxaxKjuy" displaytext="Section Header" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6iikbkTO6kr" displaytext="Stephen and the Patient Relations Representative" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6iikbkTO6kr.6mrgxn86IYs" displaytext="Here’s the Situation:" expand="false" type="slide" />
+            <slidelink slideid="_player.6iikbkTO6kr.5vKQRrTGP9J" displaytext="Step 1: Listen and Gather Information" expand="false" type="slide" />
+            <slidelink slideid="_player.6iikbkTO6kr.6TqzsjZUlyE" displaytext="Step 2: Express Empathy" expand="false" type="slide" />
+            <slidelink slideid="_player.6iikbkTO6kr.6XDWqnTBmct" displaytext="Step 3: Apologize/Make it Right" expand="false" type="slide" />
+            <slidelink slideid="_player.6iikbkTO6kr.5VtTib8O2MM" displaytext="Step 4: Do something!" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5XEnhjwSwrc" displaytext="Laura and the Certified Medical Assistant" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5XEnhjwSwrc.5d42uKTBnBi" displaytext="Here’s the Situation:" expand="false" type="slide" />
+            <slidelink slideid="_player.5XEnhjwSwrc.658juYbfvxA" displaytext="Step 1: Listen and Gather Information" expand="false" type="slide" />
+            <slidelink slideid="_player.5XEnhjwSwrc.5vzBXUm37CR" displaytext="Step 2: Express Empathy" expand="false" type="slide" />
+            <slidelink slideid="_player.5XEnhjwSwrc.6GwWNzlOc2w" displaytext="Step 3: Apologize/Make it Right" expand="false" type="slide" />
+            <slidelink slideid="_player.5XEnhjwSwrc.665WYLvV080" displaytext="Step 4: Do something!" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5qTaA0uqVi9" displaytext="Laura and the Advanced Practice Registered Nurse" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5qTaA0uqVi9.6guimVPtwFH" displaytext="Here’s the Situation:" expand="false" type="slide" />
+            <slidelink slideid="_player.5qTaA0uqVi9.6hqIn9tuWQ7" displaytext="Step 1: Listen and Gather Information" expand="false" type="slide" />
+            <slidelink slideid="_player.5qTaA0uqVi9.5hNRU0gyVxP" displaytext="Step 2: Express Empathy" expand="false" type="slide" />
+            <slidelink slideid="_player.5qTaA0uqVi9.6ZesbeIdqvd" displaytext="Step 3: Apologize/Make it Right" expand="false" type="slide" />
+            <slidelink slideid="_player.5qTaA0uqVi9.6VilLSQAsj4" displaytext="Step 4: Do something!" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6U69pwqNbie" displaytext="Conclusion" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6U69pwqNbie.6ePqUAlHy0Z" displaytext="Congratulations!" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
