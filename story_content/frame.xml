@@ -1593,7 +1593,7 @@
           <links>
             <slidelink slideid="_player.5egLdF9cbhn.5e3ZbuwUb9o" displaytext="LEADing the Way" expand="false" type="slide" />
             <slidelink slideid="_player.5egLdF9cbhn.5x26hhLIOur" displaytext="Welcome! " expand="false" type="slide" />
-            <slidelink slideid="_player.5egLdF9cbhn.68AceHwlq55" displaytext="Section 1: What is Service Recovery?" expand="false" type="slide" />
+            <slidelink slideid="_player.5egLdF9cbhn.68AceHwlq55" displaytext="What is Service Recovery?" expand="false" type="slide" />
             <slidelink slideid="_player.5egLdF9cbhn.6Qb0Eo0pTeN" displaytext="Service Recovery" expand="false" type="slide" />
             <slidelink slideid="_player.5egLdF9cbhn.5lhl6FZSRJV" displaytext="Why Service Recovery is Important" expand="false" type="slide" />
             <slidelink slideid="_player.5egLdF9cbhn.5pzFG9cxfzb" displaytext="Did you know?" expand="false" type="slide" />
@@ -1605,7 +1605,7 @@
             <slidelink slideid="_player.5egLdF9cbhn.5lGTrWgaKRC" displaytext="(Q4) When to implement service recovery?" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5a56HlQ6rQw" displaytext="Empathy &amp;amp; Perspective Taking" expand="false" type="slide">
+        <slidelink slideid="_player.5a56HlQ6rQw" displaytext="Empathy &amp;amp; Perspective Taking" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5a56HlQ6rQw.67R6qvD9xzj" displaytext="What&amp;apos;s Under The Behavior?" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.6QBkoCptt0N" displaytext="The Behavior Explained" expand="false" type="slide" />
@@ -1613,10 +1613,10 @@
             <slidelink slideid="_player.5a56HlQ6rQw.5poWGqV9Rkg" displaytext="Perspective Taking" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.68FcdyeEgeB" displaytext="Video" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.6Xi6yaGvgml" displaytext="(Q1) Which of the following are components of empathy?" expand="false" type="slide" />
+            <slidelink slideid="_player.5a56HlQ6rQw.6DMY0JXNYnu" displaytext="(Q2) Empathy is another word for sympathy" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.6ikSjLC6xSo" displaytext="(Q3) Being empathetic puts you in a vulnerable position" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.5yookAxEUMT" displaytext="(Q4) The “right” response can make a person feel better" expand="false" type="slide" />
             <slidelink slideid="_player.5a56HlQ6rQw.5q73DUuTggd" displaytext="(Q5) Empathetic responses usually begin with “at least.”" expand="false" type="slide" />
-            <slidelink slideid="_player.5a56HlQ6rQw.6DMY0JXNYnu" displaytext="(Q2) Empathy is another word for sympathy" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5YiyneFT7Xr" displaytext="The Steps of LEAD" expand="true" type="slide">
@@ -1649,7 +1649,6 @@
         </slidelink>
         <slidelink slideid="_player.6dyynIHzmov" displaytext="LEADing in Action" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6dyynIHzmov.5d5gkp8bbvL" displaytext="LEAD: Timeliness + Skills" expand="false" type="slide" />
             <slidelink slideid="_player.5YiyneFT7Xr.6Z8wz97HNqw" displaytext="The Steps of LEAD" expand="false" type="slide" />
             <slidelink slideid="_player.6dyynIHzmov.5Z3ub5Xik2c" displaytext="LEAD In Action!" expand="false" type="slide" />
           </links>
@@ -1657,7 +1656,7 @@
         <slidelink slideid="_player.6LMbgP8qVuX" displaytext="Case Scenarios" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6LMbgP8qVuX.6mOcdnAgtY8" displaytext="Let’s Practice!" expand="false" type="slide" />
-            <slidelink slideid="_player.6LMbgP8qVuX.5uCkxaxKjuy" displaytext="Section Header" expand="false" type="slide" />
+            <slidelink slideid="_player.6LMbgP8qVuX.5uCkxaxKjuy" displaytext="Choose Your Role!" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6iikbkTO6kr" displaytext="Stephen and the Patient Relations Representative" expand="true" type="slide">
